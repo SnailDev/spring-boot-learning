@@ -1,6 +1,7 @@
 package com.example.springbootredis.config;
 
 import org.springframework.context.annotation.Configuration;
+import org.springframework.session.data.redis.config.annotation.web.http.EnableRedisHttpSession;
 
 /**
  * @Author: ming.zhao
